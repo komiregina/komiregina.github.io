@@ -1,0 +1,28 @@
+html {margin: 0;padding: 0px; background-color: rgb(240, 243, 245);}
+body {font-family:'Fjalla One', sans-serif;}
+.header { position: fixed; top: 1px; left: 1%;margin-top: 1%; font-size: 1,5vw;}
+.table-main {position: fixed; top: 0; left: 50%;}
+.heder-designer { width: 70%; font-size: 20pt; font-family: 'Fjalla One', sans-serif; vertical-align: bottom; position: fixed; top: 5%; left: 50%; width: 70%;}
+.line-name {font-size: 15vw; width:100%; margin-top:28%;color: rgb(0, 0, 0);}
+.table-menu {margin:10px; table-layout: fixed; text-align: right;font-family: 'Fjalla One', sans-serif;}
+.table-menu td { padding: 0 20;}
+a { color: rgb(0, 0, 0);text-decoration: none;}
+a:hover {color: cornflowerblue;}
+.table-info {margin-left:0px ; margin-top: 50%; margin-bottom: 0;}
+.p-info { font-family:Helvetica; font: size 1%;; text-align:start; margin-left: 10px;}
+.table-projects { width: 900px; height:300px; table-layout: fixed; margin:10px;}
+.table-projects td {width: 350px; text-align: center; padding-bottom: 50px; margin-bottom: 0;}
+.projects-name {font-family:Helvetica; font-size: 18px; }
+.table-photo {margin-left: -5px; width:70%; margin-bottom: 0; margin-top: 1%;}
+.table-photo td {padding:15px;}
+.photo-title {font-family: 'Fjalla One'; font-size: 15px; }
+.table-useful { width: 70%; border-style: none; border-color: gray; margin: 10px; font-family:Helvetica; margin-bottom: 163px; margin-top: 1%;}
+.table-useful td { height: 50px; vertical-align: middle; padding: 1%;}
+.table-menu-useful {margin:10px; table-layout: fixed; text-align: right;font-family: 'Fjalla One', sans-serif;} 
+.table-menu-useful td { padding: 0 20; }
+.table-menu-copy {margin:0; text-align: center;font-family:Helvetica; position: fixed; bottom:8%; left: 0;height: 5%; width: 100%;
+background-color: rgb(255, 255, 255); opacity: 90%;}
+.img-index {width="100%"; height="30%";}
+.title-photo{position: fixed;top: 45%; right: 10%; font-size: 40pt;}
+.p-info { font-family:Helvetica; font: size 1%;; text-align:start; margin-left: 10px; position: fixed; top: 10%;}
+.title-pages {font-size: 7vw;}
